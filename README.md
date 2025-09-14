@@ -1,5 +1,5 @@
 # 💜 Shinrai – Telegram Bot
-<img src="https://camo.githubusercontent.com/db948803683d166254fd52107b45e7bb9d670a19daf933a4d327944cb6aa0b13/68747470733a2f2f692e6962622e636f2f6e7037597078502f46697265666c792d62616e6e65722d666f722d626f742d546578742d532d482d492d4e2d522d412d492d3530383632362e6a7067" width="25%" align="center" />
+<img src="https://camo.githubusercontent.com/db948803683d166254fd52107b45e7bb9d670a19daf933a4d327944cb6aa0b13/68747470733a2f2f692e6962622e636f2f6e7037597078502f46697265666c792d62616e6e65722d666f722d626f742d546578742d532d482d492d4e2d522d412d492d3530383632362e6a7067" width="100%" align="center" />
 
 
 Shinrai is a simple yet powerful **Telegram moderation bot** designed to keep your chats clean and organized. It includes features like reports, logs, profanity filtering, AI-based anti-spam, and much more.
