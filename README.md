@@ -27,4 +27,3 @@ https://github.com/wwydmanski/gender-extractor - Gender detection we used as a b
 ## Author of Shinrai
 
 (C) 2025 Yasimmy Dev.
-"# shrai_bot_telegram" 
